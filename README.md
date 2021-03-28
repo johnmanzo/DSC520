@@ -1,2 +1,5 @@
-# DSC520
-Assignments for DSC 520-301T
+# DSC 520 Repository for Manzo, John
+
+Contains assignments for DSC 520-301T
+
+  - Week 2: Assignments 0-2
