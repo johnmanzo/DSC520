@@ -2,4 +2,5 @@
 
 Contains assignments for DSC 520-301T
 
-  - Week 2: Assignments 0-2
+  - Week 2: Assignments 00, 01, & 02
+  - Week 3: Assignment 03
