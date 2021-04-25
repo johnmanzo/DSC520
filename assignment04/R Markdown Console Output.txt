@@ -1,0 +1,62 @@
+processing file: assignment_04_ManzoJohn.Rmd
+  |.....                                                                 |   8%
+  ordinary text without R code
+
+  |...........                                                           |  15%
+label: unnamed-chunk-1 (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |................                                                      |  23%
+  ordinary text without R code
+
+  |......................                                                |  31%
+label: unnamed-chunk-2 (with options) 
+List of 1
+ $ echo: logi FALSE
+
+  |...........................                                           |  38%
+  ordinary text without R code
+
+  |................................                                      |  46%
+label: unnamed-chunk-3 (with options) 
+List of 1
+ $ echo: logi FALSE
+
+  |......................................                                |  54%
+  ordinary text without R code
+
+  |...........................................                           |  62%
+label: unnamed-chunk-4 (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |................................................                      |  69%
+  ordinary text without R code
+
+  |......................................................                |  77%
+label: unnamed-chunk-5 (with options) 
+List of 1
+ $ echo: logi FALSE
+
+  |...........................................................           |  85%
+  ordinary text without R code
+
+  |.................................................................     |  92%
+label: unnamed-chunk-6 (with options) 
+List of 3
+ $ echo   : logi FALSE
+ $ warning: logi FALSE
+ $ comment: logi NA
+
+  |......................................................................| 100%
+  ordinary text without R code
+
+
+"C:/Program Files/RStudio/bin/pandoc/pandoc" +RTS -K512m -RTS assignment_04_ManzoJohn.utf8.md --to docx --from markdown+autolink_bare_uris+tex_math_single_backslash --output assignment_04_ManzoJohn.docx --lua-filter "C:\Users\manzo\Documents\R\win-library\4.0\rmarkdown\rmarkdown\lua\pagebreak.lua" --highlight-style tango --citeproc 
+output file: assignment_04_ManzoJohn.knit.md
+
+
+Output created: assignment_04_ManzoJohn.docx
+Warning message:
+package 'pander' was built under R version 4.0.5 
