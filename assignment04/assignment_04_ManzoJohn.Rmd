@@ -3,8 +3,8 @@ title: "ASSIGNMENT 4"
 author: "John Manzo"
 date: '2021-04-24'
 output:
-  word_document: default
-  html_document: default
+
+
   pdf_document: default
 bibliography: "C:/Users/manzo/Documents/Bellevue/Classes/DSC 520/Personal GitHub/DSC520/assignment04/bibliography.bib"
 ---
@@ -17,7 +17,6 @@ bibliography: "C:/Users/manzo/Documents/Bellevue/Classes/DSC 520/Personal GitHub
 3. Lima Beans
 
 ## Images
-Figure 1: All Cases (Log Plot) ![10-all-cases-log](Plots/10-all-cases-log_ManzoJohn.png)
 
 ## Add a Quote
 > Bigotry is the disease of ignorance, of morbid minds; enthusiasm of the free 
@@ -26,7 +25,7 @@ Figure 1: All Cases (Log Plot) ![10-all-cases-log](Plots/10-all-cases-log_ManzoJ
 > \- Thomas Jefferson, 1816
 
 ## Add an Equation
-$P(A \mid B) = \frac{P(B \mid A)\mid P(A)}{P(B)}$
+$P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B)}$
 
 ## Add a Footnote
 This is a footnote^[A footnote in R.].
@@ -34,6 +33,10 @@ This is a footnote^[A footnote in R.].
 ## Add Citations
 * R for Everyone [@lander2014r]
 * Discovering Statistics Using R [@field2012discovering]
+
+
+![10-all-cases-log](Plots/10-all-cases-log_ManzoJohn.png)\
+Figure 1: All Cases (Log Plot)
 
 # Inline Code
 ```{r include = FALSE}
