@@ -3,8 +3,8 @@ title: "ASSIGNMENT 4"
 author: "John Manzo"
 date: '2021-04-24'
 output:
-
-
+  word_document: default
+  html_document: default
   pdf_document: default
 bibliography: "C:/Users/manzo/Documents/Bellevue/Classes/DSC 520/Personal GitHub/DSC520/assignment04/bibliography.bib"
 ---
