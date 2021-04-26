@@ -1,28 +1,3 @@
-Show in New Window
-
-Show in New Window
-
-Show in New Window
-
-Show in New Window
-
-
-+--------+--------+---------------+-------------+------+
-|  name  |  race  | in_fellowship | ring_bearer | age  |
-+========+========+===============+=============+======+
-| Aragon |  Men   |     TRUE      |    FALSE    |  88  |
-+--------+--------+---------------+-------------+------+
-| Bilbo  | Hobbit |     FALSE     |    TRUE     | 129  |
-+--------+--------+---------------+-------------+------+
-| Frodo  | Hobbit |     TRUE      |    TRUE     |  51  |
-+--------+--------+---------------+-------------+------+
-|  Sam   | Hobbit |     TRUE      |    TRUE     |  36  |
-+--------+--------+---------------+-------------+------+
-| Sauron |  Maia  |     FALSE     |    TRUE     | 7052 |
-+--------+--------+---------------+-------------+------+
-
-
-
 processing file: assignment_04_ManzoJohn.Rmd
   |.....                                                                 |   8%
   ordinary text without R code
