@@ -42,8 +42,8 @@ heights_df <- read.csv("C:/Users/manzo/Documents/Bellevue/Classes/DSC 520/Person
 covid_df <- read.csv("C:/Users/manzo/Documents/Bellevue/Classes/DSC 520/Personal GitHub/DSC520/data/nytimes/covid-19-data/us-states.csv")
 covid_df$date <- as.Date(covid_df$date)
 california_df <- covid_df[ which( covid_df$state == "California"), ]
-ny_df <- covid_df[ which( covid_df$state == "Florida"), ]
-florida_df <- covid_df[ which( covid_df$state == "New York"), ]
+ny_df <- covid_df[ which( covid_df$state == "New York"), ]
+florida_df <- covid_df[ which( covid_df$state == "Florida"), ]
 ```
 
 ## NY Times COVID-19 Data
